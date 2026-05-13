@@ -1,7 +1,7 @@
-🖥️ Power BI Project – Sales Forecasting & Insights
+🖥️ Power BI Project Sales Forecasting & Insights
 📌 Objective
 
-To contribute to the success of a business by utilizing data analysis techniques—with a special focus on time series analysis—to provide valuable insights and accurate sales forecasting.
+To contribute to the success of a business by utilizing data analysis techniques with a special focus on time series analysis to provide valuable insights and accurate sales forecasting.
 
 📊 Project Description
 
@@ -41,7 +41,7 @@ Applied time series forecasting techniques.
 
 Used Power Query, DAX, and advanced visualizations.
 
-Developed skills in creating interactive reports for real-world business cases.
+Developed skills in creating interactive reports for real world business cases.
 
 🛠️ Tools & Technologies
 
